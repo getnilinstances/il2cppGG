@@ -1,3 +1,8 @@
+-- [[ 
+       This script is from Apex, i just changed it a lil bit.
+       ok
+-- ]]
+
 local IL2Cpp = {}
 IL2Cpp.__index = IL2Cpp
 
